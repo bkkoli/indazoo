@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57f58b1bbb7679dfe8d2fa5327f0cfb0",
+    "revision": "e61ca32d555a03c86061d990db990af4",
     "url": "/indazoo/index.html"
   },
   {
-    "revision": "05441fe06e12347a2615",
-    "url": "/indazoo/static/css/main.a9e6d32f.chunk.css"
+    "revision": "12ac0fd060fc9cd95a52",
+    "url": "/indazoo/static/css/main.78b18059.chunk.css"
   },
   {
-    "revision": "7ae142d4ce376555e24d",
-    "url": "/indazoo/static/js/2.78f440f5.chunk.js"
+    "revision": "671f50dcd671f8c992fd",
+    "url": "/indazoo/static/js/2.c330f21e.chunk.js"
   },
   {
-    "revision": "05441fe06e12347a2615",
-    "url": "/indazoo/static/js/main.d9cd8242.chunk.js"
+    "revision": "12ac0fd060fc9cd95a52",
+    "url": "/indazoo/static/js/main.26ba5949.chunk.js"
   },
   {
     "revision": "d149ac7994d2064e0a4f",
     "url": "/indazoo/static/js/runtime~main.db660317.js"
+  },
+  {
+    "revision": "b497d1886458a35965df59146e0e2601",
+    "url": "/indazoo/static/media/Omondi.b497d188.JPG"
   },
   {
     "revision": "f808924d2fda52914c405dfe09db529b",
@@ -36,6 +40,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indazoo/static/media/artist4.ec6347cf.jpg"
   },
   {
+    "revision": "25db6b3005548b89d2869bc85aa56cdf",
+    "url": "/indazoo/static/media/bkkoli.25db6b30.JPG"
+  },
+  {
+    "revision": "25db6b3005548b89d2869bc85aa56cdf",
+    "url": "/indazoo/static/media/bkkoliProfile.25db6b30.JPG"
+  },
+  {
+    "revision": "6df5a796fa6c2402d3273b477bd8bcad",
+    "url": "/indazoo/static/media/indazooAllMember.6df5a796.jpg"
+  },
+  {
+    "revision": "1bceeebae78891e91b9e00e3c2f40112",
+    "url": "/indazoo/static/media/indazooContact.1bceeeba.jpg"
+  },
+  {
+    "revision": "c634704b406d79cc6bde1ce4bda4c0d2",
+    "url": "/indazoo/static/media/indazooFaceLogo.c634704b.jpg"
+  },
+  {
     "revision": "93729002c646d242e772e261631c5753",
     "url": "/indazoo/static/media/indazooLogo.93729002.png"
   },
@@ -50,6 +74,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "db4aaf510993f011f8d87a96d60453e2",
     "url": "/indazoo/static/media/indexThird.db4aaf51.jpg"
+  },
+  {
+    "revision": "e2fde9310a452af7d7f1884715b57a12",
+    "url": "/indazoo/static/media/iphoneKeyboard.e2fde931.PNG"
+  },
+  {
+    "revision": "e8789a244b97109ac1b15a2cddda29bf",
+    "url": "/indazoo/static/media/kidzoo.e8789a24.JPG"
   },
   {
     "revision": "2497019f2c44c52cdc792d63759d022a",
