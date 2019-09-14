@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0c6543ff4b74b030e29796690919e4d",
+    "revision": "75ac4e1187db47fe093315bdc5a8fca6",
     "url": "/indazoo/index.html"
   },
   {
-    "revision": "13d5d9d04c8d6a634066",
-    "url": "/indazoo/static/css/main.c6f0ec30.chunk.css"
+    "revision": "84994a843ce94ed2da1d",
+    "url": "/indazoo/static/css/main.8c1dee7c.chunk.css"
   },
   {
-    "revision": "d9c9b50bdaaf505bb7e3",
-    "url": "/indazoo/static/js/2.dbf951d8.chunk.js"
+    "revision": "1cc4836c08cf31b3aed7",
+    "url": "/indazoo/static/js/2.75686d13.chunk.js"
   },
   {
-    "revision": "13d5d9d04c8d6a634066",
-    "url": "/indazoo/static/js/main.ca83ca33.chunk.js"
+    "revision": "84994a843ce94ed2da1d",
+    "url": "/indazoo/static/js/main.671918c8.chunk.js"
   },
   {
     "revision": "d149ac7994d2064e0a4f",
@@ -32,16 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indazoo/static/media/bkkoli.25db6b30.JPG"
   },
   {
-    "revision": "25db6b3005548b89d2869bc85aa56cdf",
-    "url": "/indazoo/static/media/bkkoliProfile.25db6b30.JPG"
-  },
-  {
     "revision": "ba996fc04eb72d98200df9dd962dbc7f",
     "url": "/indazoo/static/media/indazooAllMember.ba996fc0.jpeg"
-  },
-  {
-    "revision": "1bceeebae78891e91b9e00e3c2f40112",
-    "url": "/indazoo/static/media/indazooContact.1bceeeba.jpg"
   },
   {
     "revision": "c093592f28206c53709edb18d3e2afb7",
