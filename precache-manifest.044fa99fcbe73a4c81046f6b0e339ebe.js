@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75ac4e1187db47fe093315bdc5a8fca6",
+    "revision": "cc193f598283c25ec996ff607be610d3",
     "url": "/indazoo/index.html"
   },
   {
-    "revision": "84994a843ce94ed2da1d",
-    "url": "/indazoo/static/css/main.8c1dee7c.chunk.css"
+    "revision": "e31e6339ceca551d99b4",
+    "url": "/indazoo/static/css/main.35ba1d7c.chunk.css"
   },
   {
-    "revision": "1cc4836c08cf31b3aed7",
-    "url": "/indazoo/static/js/2.75686d13.chunk.js"
+    "revision": "e9d3fbe2a800f6027587",
+    "url": "/indazoo/static/js/2.876be87c.chunk.js"
   },
   {
-    "revision": "84994a843ce94ed2da1d",
-    "url": "/indazoo/static/js/main.671918c8.chunk.js"
+    "revision": "e31e6339ceca551d99b4",
+    "url": "/indazoo/static/js/main.468bee61.chunk.js"
   },
   {
     "revision": "d149ac7994d2064e0a4f",
     "url": "/indazoo/static/js/runtime~main.db660317.js"
+  },
+  {
+    "revision": "f5ada8754a6b717a501d4c75bdef2f1a",
+    "url": "/indazoo/static/media/DA.f5ada875.jpeg"
   },
   {
     "revision": "86ea12535d4affada2cadee703a86605",
@@ -66,9 +70,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "32a6e7de779543bc85146265f0dd35ba",
     "url": "/indazoo/static/media/kidzoo.32a6e7de.jpeg"
-  },
-  {
-    "revision": "e8789a244b97109ac1b15a2cddda29bf",
-    "url": "/indazoo/static/media/kidzoo.e8789a24.JPG"
   }
 ]);

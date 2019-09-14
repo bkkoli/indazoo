@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/indazoo/static/css/main.8c1dee7c.chunk.css",
-    "main.js": "/indazoo/static/js/main.671918c8.chunk.js",
-    "main.js.map": "/indazoo/static/js/main.671918c8.chunk.js.map",
+    "main.css": "/indazoo/static/css/main.35ba1d7c.chunk.css",
+    "main.js": "/indazoo/static/js/main.468bee61.chunk.js",
+    "main.js.map": "/indazoo/static/js/main.468bee61.chunk.js.map",
     "runtime~main.js": "/indazoo/static/js/runtime~main.db660317.js",
     "runtime~main.js.map": "/indazoo/static/js/runtime~main.db660317.js.map",
-    "static/js/2.75686d13.chunk.js": "/indazoo/static/js/2.75686d13.chunk.js",
-    "static/js/2.75686d13.chunk.js.map": "/indazoo/static/js/2.75686d13.chunk.js.map",
+    "static/js/2.876be87c.chunk.js": "/indazoo/static/js/2.876be87c.chunk.js",
+    "static/js/2.876be87c.chunk.js.map": "/indazoo/static/js/2.876be87c.chunk.js.map",
     "index.html": "/indazoo/index.html",
-    "precache-manifest.9b8f34be9be682f31b8bd7a83dc6d6f8.js": "/indazoo/precache-manifest.9b8f34be9be682f31b8bd7a83dc6d6f8.js",
+    "precache-manifest.044fa99fcbe73a4c81046f6b0e339ebe.js": "/indazoo/precache-manifest.044fa99fcbe73a4c81046f6b0e339ebe.js",
     "service-worker.js": "/indazoo/service-worker.js",
-    "static/css/main.8c1dee7c.chunk.css.map": "/indazoo/static/css/main.8c1dee7c.chunk.css.map",
+    "static/css/main.35ba1d7c.chunk.css.map": "/indazoo/static/css/main.35ba1d7c.chunk.css.map",
+    "static/media/DA.jpeg": "/indazoo/static/media/DA.f5ada875.jpeg",
     "static/media/Omondi.JPG": "/indazoo/static/media/Omondi.86ea1253.JPG",
     "static/media/Omondi2.jpg": "/indazoo/static/media/Omondi2.e8ae09c1.jpg",
     "static/media/bkkoli.JPG": "/indazoo/static/media/bkkoli.25db6b30.JPG",
@@ -22,7 +23,6 @@
     "static/media/indexSecond.jpg": "/indazoo/static/media/indexSecond.ba996fc0.jpg",
     "static/media/indexThird.jpg": "/indazoo/static/media/indexThird.b95b1eac.jpg",
     "static/media/iphoneKeyboard.PNG": "/indazoo/static/media/iphoneKeyboard.e2fde931.PNG",
-    "static/media/kidzoo.jpeg": "/indazoo/static/media/kidzoo.32a6e7de.jpeg",
-    "static/media/kidzoo.JPG": "/indazoo/static/media/kidzoo.e8789a24.JPG"
+    "static/media/kidzoo.jpeg": "/indazoo/static/media/kidzoo.32a6e7de.jpeg"
   }
 }
