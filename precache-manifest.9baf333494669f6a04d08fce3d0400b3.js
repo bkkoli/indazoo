@@ -1,55 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8183f1e465ce215b74fec8b9afeca8c0",
+    "revision": "d641da7606a6f2b4a38e16ba294c4c98",
     "url": "/indazoo/index.html"
   },
   {
-    "revision": "8af69a0a2b5a6cdd786c",
-    "url": "/indazoo/static/css/8.9c3e8a99.chunk.css"
+    "revision": "2f68d72dca0406d6e0e8",
+    "url": "/indazoo/static/css/main.5d37c31d.chunk.css"
   },
   {
-    "revision": "86aed9e8bc3fedb97502",
-    "url": "/indazoo/static/css/main.34de6062.chunk.css"
+    "revision": "a5ece180e21d61490d76",
+    "url": "/indazoo/static/js/0.80526e83.chunk.js"
   },
   {
-    "revision": "a082863ac022b978383e",
-    "url": "/indazoo/static/js/0.b029ae9f.chunk.js"
+    "revision": "bc3d91a8fde5b3f191a8",
+    "url": "/indazoo/static/js/3.a48fa746.chunk.js"
   },
   {
-    "revision": "da92adacba3b65e82603",
-    "url": "/indazoo/static/js/3.f5ca4461.chunk.js"
+    "revision": "6b3c6c10d8a3d3b3d616",
+    "url": "/indazoo/static/js/4.8f8278a7.chunk.js"
   },
   {
-    "revision": "e362443431ec8e186c89",
-    "url": "/indazoo/static/js/4.f9faa13b.chunk.js"
+    "revision": "84ea533d6082d8ddf714",
+    "url": "/indazoo/static/js/5.d12883e4.chunk.js"
   },
   {
-    "revision": "5f6383e9fcf5b9c315a5",
-    "url": "/indazoo/static/js/5.d7c280e6.chunk.js"
+    "revision": "9d1e373906f20592d0c0",
+    "url": "/indazoo/static/js/6.865e9c14.chunk.js"
   },
   {
-    "revision": "f65c85ae52d508e154ac",
-    "url": "/indazoo/static/js/6.43f87a95.chunk.js"
+    "revision": "46164e492aedf5ae65e3",
+    "url": "/indazoo/static/js/7.4efe4676.chunk.js"
   },
   {
-    "revision": "17e88a94c8ef70b992f7",
-    "url": "/indazoo/static/js/7.63ebcd55.chunk.js"
+    "revision": "96a756c26ec43f9d3045",
+    "url": "/indazoo/static/js/8.75ca10dc.chunk.js"
   },
   {
-    "revision": "8af69a0a2b5a6cdd786c",
-    "url": "/indazoo/static/js/8.3d36fcc6.chunk.js"
+    "revision": "46c44e253b666454adae",
+    "url": "/indazoo/static/js/9.78a8906d.chunk.js"
   },
   {
-    "revision": "521d66c0b0cbc1167712",
-    "url": "/indazoo/static/js/9.b19adfac.chunk.js"
+    "revision": "2f68d72dca0406d6e0e8",
+    "url": "/indazoo/static/js/main.e8757789.chunk.js"
   },
   {
-    "revision": "86aed9e8bc3fedb97502",
-    "url": "/indazoo/static/js/main.735f70f0.chunk.js"
-  },
-  {
-    "revision": "df47bebb61ff5f5e1097",
-    "url": "/indazoo/static/js/runtime~main.00deb745.js"
+    "revision": "2dbb149af0aea34d4283",
+    "url": "/indazoo/static/js/runtime~main.ab8bb20d.js"
   },
   {
     "revision": "f5ada8754a6b717a501d4c75bdef2f1a",
