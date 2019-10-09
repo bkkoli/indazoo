@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3021854654f1b1a3a7e839e3bebde59",
+    "revision": "fb77911333b72b776bf16ee508793cda",
     "url": "/indazoo/index.html"
   },
   {
-    "revision": "8ab498c887e47c89c31d",
+    "revision": "fce116187477a7569848",
     "url": "/indazoo/static/css/8.9c3e8a99.chunk.css"
   },
   {
-    "revision": "26556c2225cc567491c8",
+    "revision": "a8df5076f942037cddaf",
     "url": "/indazoo/static/css/main.34de6062.chunk.css"
   },
   {
@@ -20,36 +20,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/indazoo/static/js/3.f5ca4461.chunk.js"
   },
   {
-    "revision": "e362443431ec8e186c89",
-    "url": "/indazoo/static/js/4.f9faa13b.chunk.js"
+    "revision": "f080a13c2fab28faa341",
+    "url": "/indazoo/static/js/4.b5b4a1f1.chunk.js"
   },
   {
-    "revision": "45c898e100fb5eeed181",
-    "url": "/indazoo/static/js/5.8c1a57d3.chunk.js"
+    "revision": "137bf5f17e9910e00f8e",
+    "url": "/indazoo/static/js/5.9fe5b3b6.chunk.js"
   },
   {
-    "revision": "d41f3ee96f115a0bb655",
-    "url": "/indazoo/static/js/6.7a8f2ba4.chunk.js"
+    "revision": "d7d4eb3a8d17d692bf65",
+    "url": "/indazoo/static/js/6.aa8c77fc.chunk.js"
   },
   {
-    "revision": "1ce058424e49c4e93458",
-    "url": "/indazoo/static/js/7.bdd651fb.chunk.js"
+    "revision": "6388689953fca9ef1328",
+    "url": "/indazoo/static/js/7.363ad136.chunk.js"
   },
   {
-    "revision": "8ab498c887e47c89c31d",
-    "url": "/indazoo/static/js/8.15c7a403.chunk.js"
+    "revision": "fce116187477a7569848",
+    "url": "/indazoo/static/js/8.2d5d61b3.chunk.js"
   },
   {
-    "revision": "1791106f0ad8136c3744",
-    "url": "/indazoo/static/js/9.e753f699.chunk.js"
+    "revision": "ffa6816e1e446a80d452",
+    "url": "/indazoo/static/js/9.5028d847.chunk.js"
   },
   {
-    "revision": "26556c2225cc567491c8",
-    "url": "/indazoo/static/js/main.bf4f0fc8.chunk.js"
+    "revision": "a8df5076f942037cddaf",
+    "url": "/indazoo/static/js/main.f373c532.chunk.js"
   },
   {
-    "revision": "4518d1bc93b7e56a7df8",
-    "url": "/indazoo/static/js/runtime~main.80537f21.js"
+    "revision": "4096a2728bda09916627",
+    "url": "/indazoo/static/js/runtime~main.05aa1ad9.js"
   },
   {
     "revision": "f5ada8754a6b717a501d4c75bdef2f1a",
