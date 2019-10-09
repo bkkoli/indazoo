@@ -1,23 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5a6a8a53c5542ce100dd90fe4a96cb6",
+    "revision": "40c5cd5942f3661c3ec14cf3ce6aebba",
     "url": "/indazoo/index.html"
   },
   {
-    "revision": "7ffb170d5f347232f724",
-    "url": "/indazoo/static/css/main.82b9ec49.chunk.css"
+    "revision": "f4d8de2c4d5f1b4a00f2",
+    "url": "/indazoo/static/css/8.9c3e8a99.chunk.css"
   },
   {
-    "revision": "e9d3fbe2a800f6027587",
-    "url": "/indazoo/static/js/2.876be87c.chunk.js"
+    "revision": "4d892cc252609b655449",
+    "url": "/indazoo/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "7ffb170d5f347232f724",
-    "url": "/indazoo/static/js/main.468bee61.chunk.js"
+    "revision": "a082863ac022b978383e",
+    "url": "/indazoo/static/js/0.b029ae9f.chunk.js"
   },
   {
-    "revision": "d149ac7994d2064e0a4f",
-    "url": "/indazoo/static/js/runtime~main.db660317.js"
+    "revision": "da92adacba3b65e82603",
+    "url": "/indazoo/static/js/3.f5ca4461.chunk.js"
+  },
+  {
+    "revision": "bbee31519b9ea88f1e27",
+    "url": "/indazoo/static/js/4.909f3848.chunk.js"
+  },
+  {
+    "revision": "a0e5f7c259f61b40ed06",
+    "url": "/indazoo/static/js/5.fa5e35a4.chunk.js"
+  },
+  {
+    "revision": "54f4ac8135cbb4d744d8",
+    "url": "/indazoo/static/js/6.4bdafb68.chunk.js"
+  },
+  {
+    "revision": "7399b4a6411cde0cb6e9",
+    "url": "/indazoo/static/js/7.6f4398d8.chunk.js"
+  },
+  {
+    "revision": "f4d8de2c4d5f1b4a00f2",
+    "url": "/indazoo/static/js/8.885c67ce.chunk.js"
+  },
+  {
+    "revision": "9317640206439d80b5f8",
+    "url": "/indazoo/static/js/9.44f550c9.chunk.js"
+  },
+  {
+    "revision": "4d892cc252609b655449",
+    "url": "/indazoo/static/js/main.162e6304.chunk.js"
+  },
+  {
+    "revision": "ff4059ea3150b8452614",
+    "url": "/indazoo/static/js/runtime~main.e2f30a12.js"
   },
   {
     "revision": "f5ada8754a6b717a501d4c75bdef2f1a",
@@ -70,5 +102,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "32a6e7de779543bc85146265f0dd35ba",
     "url": "/indazoo/static/media/kidzoo.32a6e7de.jpeg"
+  },
+  {
+    "revision": "c4de1ec2a8b1ebe32edbee026c0a33f1",
+    "url": "/indazoo/static/media/mixtapeCover.c4de1ec2.jpeg"
   }
 ]);
